@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+
+    <!--为JavaBean起类别名-->
+
+    <typeAliases>
+
+        <packgage name="com.jerry.domain" />
+
+    </typeAliases>
+
+
+
+</configuration>>
